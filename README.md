@@ -54,6 +54,11 @@ The dataset consists of the following columns:
 
 •	'Churn': Whether the customer churned or not (target variable).
 
+# Logistic Regression
+Here I use the machine learning algorithm called Logistic Regression as Churn output is binary yes or no.
+Logistic regression is a statistical regression model used to predict the probability of a binary outcome based on one or more predictor variables.
+It is commonly used for classification tasks, where the goal is to predict a categorical outcome, such as yes/no, true/false, or class labels.
+
 # Results
 The project aims to provide accurate predictions of customer churn in the telecom industry using logistic regression. 
 By identifying potential churners, telecom companies can take proactive measures such as targeted marketing campaigns, personalized offers, or improved customer service to retain customers and mitigate churn. The performance of the logistic regression model can be evaluated using appropriate evaluation metrics and compared to other machine learning algorithms to assess its effectiveness.
